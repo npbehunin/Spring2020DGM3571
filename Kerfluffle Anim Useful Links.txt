@@ -1,0 +1,2 @@
+Hiding geometry but showing reflections:
+https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/Maya/files/Vari-Control-visibility-reflection-per-layer-htm.html
